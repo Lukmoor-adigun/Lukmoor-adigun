@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lukmoore
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning bash script
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning through the alx- progrsm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
